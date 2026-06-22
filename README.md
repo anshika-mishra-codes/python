@@ -23,6 +23,34 @@ This repository contains Python programs and practice exercises that I have comp
 
 ## Current Programs
 
+### Variables & Data Types
+- Student Information
+- Simple Calculator
+
+### Strings & Conditionals
+- Palindrome Checker
+- Grade Calculator
+
+### Lists & Tuples
+- Largest Element in a List
+- Tuple Occurrences Counter
+
+### Dictionaries & Sets
+- Student Marks Lookup
+- Unique Elements using Set
+
+### Loops
+- Multiplication Table
+- Sum of N Numbers
+
+### Functions & Recursion
+- Factorial (loop implementation)
+- Recursive List Printing
+
+### File Handling
+- Count Vowels in a File
+- Copy File Content
+
 
 
 ## Note
