@@ -15,14 +15,9 @@ This repository contains Python programs and practice exercises that I have comp
 5. Loops (While & For)
 6. Functions & Recursion
 7. File Input/Output
+8. Object-Oriented Programming (OOP)
 
-## Upcoming Topics
-
-- Object-Oriented Programming (OOP)
-- Advanced OOP Concepts
-
-
-## Current Programs
+## Programs
 
 ### Variables & Data Types
 - Student Information
@@ -52,8 +47,6 @@ This repository contains Python programs and practice exercises that I have comp
 - Count Vowels in a File
 - Copy File Content
 
+### Object-Oriented Programming (OOP)
 
 
-## Note
-
-This repository will continue to grow as I learn new Python concepts and build more projects.
