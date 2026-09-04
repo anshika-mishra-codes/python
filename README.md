@@ -48,5 +48,15 @@ This repository contains Python programs and practice exercises that I have comp
 - Copy File Content
 
 ### Object-Oriented Programming (OOP)
+- Abstraction
+- Polymorphism
+- Class Methods
+- Constructors
+- Dunder Functions
+- Inheritance
+- Methods
+- Private Attributes
+- Property Decorators
+- `super()` Method
 
 
